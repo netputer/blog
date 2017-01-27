@@ -1,0 +1,3 @@
+[submodule "themes/casper"]
+	path = themes/casper
+	url = https://netputer@github.com/netputer/hugo-theme-casper.git
